@@ -1,7 +1,3 @@
-/**
- * Bike rental simulation Bike class.
- * Vteam 2023 Group 8.
- */
 "use strict";
 
 const baseURL = require("../data/config.js").baseURL;

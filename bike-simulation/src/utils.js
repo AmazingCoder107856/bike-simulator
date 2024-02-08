@@ -1,7 +1,3 @@
-/**
- * Bike rental simulation utils.
- * Vteam 2023 Group 8.
- */
 "use strict";
 
 const chars = "aaabcdeeefghiiijklmnoooprstuvy";

@@ -1,7 +1,3 @@
-/**
- * Bike rental system simulation.
- * Vteam 2023 Group 8.
- */
 "use strict";
 
 const numUsers = require("./data/config.js").numUsers;

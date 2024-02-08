@@ -1,7 +1,3 @@
-/**
- * Bike rental simulation configuration data.
- * Vteam 2023 Group 8.
- */
 "use strict";
 
 const baseURL = "http://server:1337/api/v1"; // If run via Docker compose

@@ -1,8 +1,3 @@
-/**
- * Bike rental simulation data.
- * Vteam 2023 Group 8.
- */
-
 const cities = [
     {
         name: "Karlskrona",

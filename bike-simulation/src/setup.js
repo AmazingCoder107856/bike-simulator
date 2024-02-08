@@ -1,7 +1,3 @@
-/**
- * Bike rental simulation setup.
- * Vteam 2023 Group 8.
- */
 "use strict";
 
 const dbName = "bike-rentals";
